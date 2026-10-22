@@ -1,3 +1,6 @@
+#For loop goes through every entry in the list 
+#if/else statement checks which condition does the number satisfy
+#append keeps adding those new numbers to the empty liste we created
 
 print("-----Welcome to the even odd sorter")
 
