@@ -4,7 +4,7 @@
 
 print("-----The FizzBuzz Challenge-----")
 
-Leaftovers = []
+Leftovers = []
 FizzBuzz = []
 Fizz = []
 Buzz = []
@@ -20,12 +20,12 @@ for num in range(1,50):
         Buzz.append(num)
         print(f"{num}:Buzz")
     else:
-        Leaftovers.append(num)
+        Leftovers.append(num)
 
 print(f"Numbers divisbile by 3 and 5: {FizzBuzz}")
 print(f"Numbers divisbile by 3: {Fizz}")
 print(f"Numbers divisbile by 5: {Buzz}")
-print(f"Numbers divisbile by neither 3 nor 5: {Leaftovers}")
+print(f"Numbers divisbile by neither 3 nor 5: {Leftovers}")
 
 
 #Additionally appended them into a clean list for better visual understanding
