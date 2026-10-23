@@ -1,4 +1,4 @@
-
+##The following code is good to understand how to access items in a dictionary and play around with that
 # print("-"*30)
 
 # grocery_list={
@@ -22,6 +22,15 @@
 # print("-"*30)
 # print(f"total amount to be paid:{total_bill}")
 # print("-"*30)
+
+
+
+
+
+## Let's take it up a nothc and try to incorporate the actual factor of quantity like in a grocery list
+#this will take taking inputs on the quantity that is required
+#printing the quantity item and price in the final receipt after taking the input
+#producing the final number/amount to be paid 
 
 
 print("-"*30)
